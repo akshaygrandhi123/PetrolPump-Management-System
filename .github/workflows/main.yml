@@ -27,4 +27,4 @@ jobs:
         STREAMLIT_PUBLIC_SHARE_ENABLED: true
         STREAMLIT_SHARE_BASE: /share
       run: |
-        streamlit run app.py
+        streamlit run Project/app.py
